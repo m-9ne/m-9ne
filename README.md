@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python and Teal
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... morpheus9@gmail.com
-- 😄 Pronouns: ... Really? Do you care?
+- 😄 Pronouns: ... Dad, family uber driver!
 - ⚡ Fun fact: ... We live in a virtual Reality.. 
 
 <!---
