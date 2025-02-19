@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @m-9ne, 
-- 👀 I’m interested in ... Crypto, Art and Animation. And I play chess. 
+- 👀 I’m interested in ... Art and Animation. And I play chess. 
 - 🌱 I’m currently learning ... Algorand Python as I want to develop an ASA
-- 💞️ I’m looking to collaborate on my project called The Morpheus Project which is, I hope will be a Matrix Based ASA. Matrix is my favourite film. Matrix one!
 - 📫 How to reach me ... morpheus9@gmail.com
-- 😄 Pronouns: ... Dad, family Uber driver!
 - ⚡ Fun fact: ... We live in a virtual Reality.. 
 
 <!---
